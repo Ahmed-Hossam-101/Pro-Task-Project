@@ -1,0 +1,50 @@
+@media (max-width:1020px){
+  .btns{
+    right:-10%;
+   
+  }
+  .Btn{
+  font-size: 12px;
+}
+.time_end{
+  top: 25px;
+  left: 75%;
+  padding: 0;
+  font-size: 2px;
+}
+.add_time h1{
+  font-size: 14px;
+  width: 66%;
+}
+#inps{
+  position: absolute;
+  width: 80%;
+  
+}
+#write_TT{
+  width: 80%;
+
+}
+#inps input{
+  display: inline-block;
+width: 10vh;
+}
+.settings{
+  right: 2%;
+  top: 2%;
+}
+p.test{
+  font-size: 15px;
+}
+.time{
+  font-size: 24px;}
+  .dots{
+  font-size: 20px;}
+  .time_img__{
+    width: 30px;
+  }
+  p.done{
+    position:absolute;
+    left:14%;
+  font-size: 20px;}
+}
